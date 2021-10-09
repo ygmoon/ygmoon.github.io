@@ -12,7 +12,8 @@ I am currently a Staff Engineer at [Samsung Research](https://research.samsung.c
 
  - Staff Engineer at Samsung Research - 6G Research Team (2021 - present)
  - Researcher at MPI-SWS - OS/Networking Group (2020)
- - Graduate Researcher at KAIST EE - [Networked and Distributed Computing Systems Lab](https://www.ndsl.kaist.edu/) (2012 - 2020)  
+ - Graduate Researcher at [Networked and Distributed Computing Systems Lab](https://www.ndsl.kaist.edu/) @ KAIST (2012 - 2020)  
+   - Thesis: Redesigning Networking Stacks for Scalable Mobile Data Communication
 <br/>
 
 ## Publications (selected)
@@ -33,6 +34,7 @@ Muhammad Jamshed, YoungGyoun Moon, Donghwi Kim, Dongsu Han and KyoungSoo Park
 USENIX NSDI 2017 (Awarded Best Paper)
 [[paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jamshed.pdf)]
 [[code](https://github.com/mos-stack/mOS-networking-stack)]
+[[doc](https://mos.kaist.edu/guide/)]
 
 **APUNet: Revitalizing GPU as Packet Processing Accelerator**  
 Younghwan Go, Muhammad Jamshed, YoungGyoun Moon, Changho Hwang and KyoungSoo Park  
