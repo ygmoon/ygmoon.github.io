@@ -4,7 +4,6 @@
 
 I am currently a Staff Engineer at [Samsung Research](https://research.samsung.com/), where I am working on designing next-generation communication systems. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by Prof. [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/). My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
 
-Email: ygyoun.moon at samsung.com
 [[Google Scholar](https://scholar.google.co.kr/citations?user=iQjMtI4AAAAJ&hl=ko)]
 [[Github](https://github.com/ygmoon)]  
 <br/>
@@ -13,7 +12,7 @@ Email: ygyoun.moon at samsung.com
 
  - Staff Engineer at Samsung Research - 6G Research Team (2021 - present)
  - Researcher at MPI-SWS - OS/Networking Group (2020)
- - Graduate Researcher at KAIST EE - [Networked and Distributed Computing Systems Lab](https://www.ndsl.kaist.edu/) (2012 - 2020)
+ - Graduate Researcher at KAIST EE - [Networked and Distributed Computing Systems Lab](https://www.ndsl.kaist.edu/) (2012 - 2020)  
 <br/>
 
 ## Publications (selected)
@@ -56,3 +55,7 @@ ACM MobiSys 2015
 [[paper](https://dl.acm.org/doi/10.1145/2742647.2742664)]
 [[code](https://github.com/ndsl-kaist/cedos)] [[video](https://www.youtube.com/watch?v=FPUxz5aziG4)]  
 <br/>
+
+## Contact
+
+Email: ygyoun.moon at gmail.com
