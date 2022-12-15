@@ -2,7 +2,7 @@
 
 ## About me
 
-I am currently working at [Samsung Research](https://research.samsung.com/), where I am contributing to the design of next-generation communication systems. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by Prof. [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/). My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
+I am currently working at [Samsung Research](https://research.samsung.com/), and contributing to the design of next-generation communication systems. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by Prof. [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/). My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=iQjMtI4AAAAJ)]
 [[Github](https://github.com/ygmoon)]  
@@ -18,7 +18,7 @@ I am currently working at [Samsung Research](https://research.samsung.com/), whe
 
 ## Publications
 
-**RAN-CN Converged User-Plane for 6G Cellular Networks**
+**RAN-CN Converged User-Plane for 6G Cellular Networks**  
 Jiyoung Cha, YoungGyoun Moon, Sunwoo Cho, Dongmyoung Kim, Jinho Choi, Jungsoo Jung, Juho Lee and Sunghyun Choi
 IEEE GLOBECOM 2022
 
