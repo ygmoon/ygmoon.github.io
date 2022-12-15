@@ -2,7 +2,7 @@
 
 ## About me
 
-I am currently a Staff Engineer at [Samsung Research](https://research.samsung.com/), where I am working on designing next-generation communication systems. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by Prof. [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/). My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
+I am currently working at [Samsung Research](https://research.samsung.com/), where I am contributing to the design of next-generation communication systems. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by Prof. [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/). My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=iQjMtI4AAAAJ)]
 [[Github](https://github.com/ygmoon)]  
@@ -10,13 +10,17 @@ I am currently a Staff Engineer at [Samsung Research](https://research.samsung.c
 
 ## Professional Experience
 
- - Staff Engineer at Samsung Research - 6G Research Team (2021 - present)
+ - Staff Engineer at Samsung Electronics - 6G Research Team (2021 - present)
  - Researcher at MPI-SWS - OS/Networking Group (2020)
  - Graduate Researcher at KAIST [Networked and Distributed Computing Systems Lab](https://www.ndsl.kaist.edu/) (2012 - 2020)  
-   - Thesis: Redesigning Networking Stacks for Scalable Mobile Data Communication  
+   - Thesis: Redesigning Networking Stacks for Scalable Mobile Data Communication
 <br/>
 
-## Publications (selected)
+## Publications
+
+**RAN-CN Converged User-Plane for 6G Cellular Networks**
+Jiyoung Cha, YoungGyoun Moon, Sunwoo Cho, Dongmyoung Kim, Jinho Choi, Jungsoo Jung, Juho Lee and Sunghyun Choi
+IEEE GLOBECOM 2022
 
 **AccelTCP: Accelerating Network Applications with Stateful TCP Offloading**  
 YoungGyoun Moon, Seungeon Lee, Muhammad Asim Jamshed and KyoungSoo Park  
@@ -57,6 +61,12 @@ ACM MobiSys 2015
 [[paper](https://dl.acm.org/doi/10.1145/2742647.2742664)]
 [[code](https://github.com/ndsl-kaist/cedos)] [[video](https://www.youtube.com/watch?v=FPUxz5aziG4)]  
 <br/>
+
+## Professional Services
+
+- Program Committee: ACM CoNEXT 2022
+- Reviewer: IEEE/ACM Transactions on Networking (since 2018)
+- Web Chair: APSys 2018
 
 ## Contact
 
