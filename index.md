@@ -19,7 +19,7 @@ I am currently working at [Samsung Research](https://research.samsung.com/), and
 ## Publications
 
 **RAN-CN Converged User-Plane for 6G Cellular Networks**  
-Jiyoung Cha, YoungGyoun Moon, Sunwoo Cho, Dongmyoung Kim, Jinho Choi, Jungsoo Jung, Juho Lee and Sunghyun Choi
+Jiyoung Cha, YoungGyoun Moon, Sunwoo Cho, Dongmyoung Kim, Jinho Choi, Jungsoo Jung, Juho Lee and Sunghyun Choi  
 IEEE GLOBECOM 2022
 
 **AccelTCP: Accelerating Network Applications with Stateful TCP Offloading**  
@@ -67,6 +67,7 @@ ACM MobiSys 2015
 - Program Committee: ACM CoNEXT 2022
 - Reviewer: IEEE/ACM Transactions on Networking (since 2018)
 - Web Chair: APSys 2018
+<br/>  
 
 ## Contact
 
