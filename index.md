@@ -18,6 +18,14 @@ I am currently working at [Samsung Research](https://research.samsung.com/), and
 
 ## Publications
 
+**FlexCP: A Scalable Multipath TCP Proxy for Cellular Networks**  
+Duckwoo Kim, YoungGyoun Moon, Jaehyun Hwang and KyoungSoo Park
+ACM CoNEXT 2023
+
+**Is Large MTU Beneficial to Cellular Core Networks?**  
+Youngmin Choi, Junghan Yoon, YoungGyoun Moon and KyoungSoo Park
+APNet 2023
+
 **RAN-CN Converged User-Plane for 6G Cellular Networks**  
 Jiyoung Cha, YoungGyoun Moon, Sunwoo Cho, Dongmyoung Kim, Jinho Choi, Jungsoo Jung, Juho Lee and Sunghyun Choi  
 IEEE GLOBECOM 2022
