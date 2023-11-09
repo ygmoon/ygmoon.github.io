@@ -23,8 +23,8 @@ Duckwoo Kim, YoungGyoun Moon, Jaehyun Hwang, and KyoungSoo Park
 To appear in ACM CoNEXT 2023
 
 **Is Large MTU Beneficial to Cellular Core Networks?**  
-Youngmin Choi, Junghan Yoon, YoungGyoun Moon, and KyoungSoo Park  
-APNet 2023 [[paper](https://dl.acm.org/doi/10.1145/3600061.3600081)]
+Youngmin Choi*, Junghan Yoon*, YoungGyoun Moon, and KyoungSoo Park  
+APNet 2023 [[paper](https://dl.acm.org/doi/10.1145/3600061.3600081)] (* co-first authors)  
 
 **RAN-CN Converged User-Plane for 6G Cellular Networks**  
 Jiyoung Cha, YoungGyoun Moon, Sunwoo Cho, Dongmyoung Kim, Jinho Choi, Jungsoo Jung, Juho Lee, and Sunghyun Choi  
@@ -59,7 +59,7 @@ IEEE/ACM Transactions on Networking (2017)
 [[paper](https://ieeexplore.ieee.org/document/7762223)]  
 
 **A Case for a Stateful Middlebox Networking Stack**  
-Muhammad Jamshed, Donghwi Kim, YoungGyoun Moon, Dongsu Han, and KyoungSoo Park  
+Muhammad Asim Jamshed, Donghwi Kim, YoungGyoun Moon, Dongsu Han, and KyoungSoo Park  
 ACM SIGCOMM 2015 (poster)
 [[paper](https://dl.acm.org/doi/abs/10.1145/2785956.2789999)]
 
