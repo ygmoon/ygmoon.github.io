@@ -18,6 +18,10 @@ I am currently working at [Samsung Research](https://research.samsung.com/), and
 
 ## Publications
 
+**Data Plane Acceleration using Heterogeneous Programmable Network Devices towards 6G**  
+YoungGyoun Moon, Yoonseon Han, Sunghwan Kim, M Sasank Sai, Aneesh Deshmukh, Dongmyoung Kim
+To appear in IEEE ICC 2024
+
 **FlexCP: A Scalable Multipath TCP Proxy for Cellular Networks**  
 Duckwoo Kim, YoungGyoun Moon, Jaehyun Hwang, and KyoungSoo Park  
 ACM CoNEXT 2023 & Proceedings of the ACM on Networking [[paper](https://dl.acm.org/doi/10.1145/3629143)]
