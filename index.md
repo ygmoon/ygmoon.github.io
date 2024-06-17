@@ -20,7 +20,7 @@ I am currently working at [Samsung Research](https://research.samsung.com/), and
 
 **Data Plane Acceleration using Heterogeneous Programmable Network Devices towards 6G**  
 YoungGyoun Moon, Yoonseon Han, Sunghwan Kim, M Sasank Sai, Aneesh Deshmukh, Dongmyoung Kim  
-To appear in IEEE ICC 2024
+IEEE ICC 2024
 
 **FlexCP: A Scalable Multipath TCP Proxy for Cellular Networks**  
 Duckwoo Kim, YoungGyoun Moon, Jaehyun Hwang, and KyoungSoo Park  
@@ -73,7 +73,7 @@ ACM MobiSys 2015
 [[paper](https://dl.acm.org/doi/10.1145/2742647.2742664)]
 [[code](https://github.com/ndsl-kaist/cedos)] [[video](https://www.youtube.com/watch?v=FPUxz5aziG4)]  
 
-**A Case for a Stateful Middlebox Networking Stack**  
+**A Disruption-tolerant Transmission Protocol for Practical Mobile Data Offloading**  
 Younghwan Go, YoungGyoun Moon, Giyoung Nam, and KyoungSoo Park  
 ACM MobiOpp 2012 [[paper](https://dl.acm.org/doi/abs/10.1145/2159576.2159590)]
 
