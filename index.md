@@ -2,7 +2,7 @@
 
 ## About me
 
-I am currently working at [Samsung Research](https://research.samsung.com/), and contributing to the design of next-generation communication systems and relevant solutions. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by Prof. [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/). My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
+I am a research engineer at Samsung Electronics, and contributing to the design of next-generation network and communication systems. Previously, I received my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. KyoungSoo Park. My research interests are broadly in the area of networking and computing systems with a focus on designing scalable and robust systems.
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=iQjMtI4AAAAJ)]
 [[Github](https://github.com/ygmoon)]  
@@ -10,9 +10,9 @@ I am currently working at [Samsung Research](https://research.samsung.com/), and
 
 ## Professional Experience
 
- - Staff Engineer at Samsung Electronics - 6G Research Team (2021 - present)
- - Researcher at MPI-SWS - OS/Networking Group (2020)
- - Graduate Researcher at KAIST [Networked and Distributed Computing Systems Lab](https://www.ndsl.kaist.edu/) (2012 - 2020)  
+ - Staff Engineer at [Samsung Research](https://research.samsung.com/) - 6G Research Team (2021 - present)
+ - Researcher at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) - OS/Networking Group (2020)
+ - Graduate Researcher at [KAIST EE](https://ee.kaist.ac.kr/) - Networked and Distributed Computing Systems Lab (2012 - 2020, now it's [T-Networking Lab](https://tnet.snu.ac.kr/))
    - Thesis: Redesigning Networking Stacks for Scalable Mobile Data Communication
 <br/>
 
@@ -20,7 +20,7 @@ I am currently working at [Samsung Research](https://research.samsung.com/), and
 
 **Data Plane Acceleration using Heterogeneous Programmable Network Devices towards 6G**  
 YoungGyoun Moon, Yoonseon Han, Sunghwan Kim, M Sasank Sai, Aneesh Deshmukh, Dongmyoung Kim  
-IEEE ICC 2024
+IEEE ICC 2024 [[paper](https://ieeexplore.ieee.org/abstract/document/10622666/)]
 
 **FlexCP: A Scalable Multipath TCP Proxy for Cellular Networks**  
 Duckwoo Kim, YoungGyoun Moon, Jaehyun Hwang, and KyoungSoo Park  
